@@ -9,6 +9,7 @@
         <p>• ℹ️ Hobbies: <b> Music 🎧 | Exercise 🏃 | Movie 🍿</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>wlsghrla94@gmail.com</b></p>
+        <p>• 🌐 You will be able to see more about me in my [website](https://jinokiim.github.io/)
 </div><br>
 
 
