@@ -5,7 +5,7 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently : <b>learning machine learning.</b></p>
+        <p>• 📚 I’m currently : <b>learning about web.</b></p>
         <p>• ℹ️ Hobbies: <b> Music 🎧 | Exercise 🏃 | Movie 🍿</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>wlsghrla94@gmail.com</b></p>
