@@ -13,7 +13,7 @@
 </div><br>
 
 
-
+<!-- ---
 <h3>🧰 Languages and tools I'm learning until now:</h3><br>
     <div align = "center">  
     
@@ -34,8 +34,9 @@
 
 ___
 
+ -->
 
+Last Edited on: May. 22, 2022
 
-Last Edited on: Nov. 04, 2021
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
