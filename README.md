@@ -36,4 +36,8 @@ Last Edited on: May. 31, 2022
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
+ [![jinokiim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinokiim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jinokiim)
+
  -->
+ 
+
